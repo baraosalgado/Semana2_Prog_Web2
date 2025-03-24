@@ -1,5 +1,6 @@
 Atividades avaliativas da Semana 2 da Disciplina Programação Web II do Curso Técnico em Informática para Internet do IFSULDEMINAS.
 Cada arquivo deste repositório corresponde a uma atividade abaixo, de acordo com a numeração.
+Foi solicitado que se usasse o replit.com. Usei o Assistente mas alguns ajustes pessoais foram necessários.
 
 1. Escreva um programa que leia o número inicial, leia o número final (número inicial sempre menor que o final) e imprima-os (eles e os números sequenciais até o maior ou menor) na tela, em ordem decrescente. Por exemplo: Menor: 5 - Maior: 10 resultado -> 10, 9, 8, 7, 6, 5
 
